@@ -17,7 +17,7 @@ export default function Menu() {
     <FlatList
       showsVerticalScrollIndicator={false}
       data={Categories}
-      keyExtractor={item => item.id}
+      keyExtractor={item => String(item.id)}
       renderItem={({ item }) => (
         <Container backgroundColor={handleBackgroundColor(item)}>
           <Item>
