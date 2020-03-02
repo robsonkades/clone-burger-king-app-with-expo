@@ -1,0 +1,344 @@
+{
+    "banners": [
+        {
+            "id": 1,
+            "title": "Burger King Demo Card",
+            "imageUrl": "images/promo.png",
+            "create_at": "1582935946",
+            "expiration": "1582935946"
+        },
+        {
+            "id": 2,
+            "title": "Burger King Demo Card",
+            "imageUrl": "images/promo2.jpg",
+            "create_at": "1582935946",
+            "expiration": "1582935946"
+        },
+        {
+            "id": 3,
+            "title": "Burger King Demo Card",
+            "imageUrl": "images/promo3.jpg",
+            "create_at": "1582935946",
+            "expiration": "1582935946"
+        },
+        {
+            "id": 4,
+            "title": "Burger King Demo Card",
+            "imageUrl": "images/promo4.jpg",
+            "create_at": "1582935946",
+            "expiration": "1582935946"
+        }
+    ],
+    "menu": [
+        {
+            "id": 1,
+            "title": "HAMBÚRGUERES DE CARNE",
+            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/WhopperDuplocomqueijo_thumb_0.png",
+            "color": "#8b542f",
+            "link": ""
+        },
+        {
+            "id": 2,
+            "title": "HAMBÚRGUERES DE FRANGO",
+            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/Site-300x270-Crisp_0.jpg",
+            "color": "#ed7800",
+            "link": ""
+        },
+        {
+            "id": 3,
+            "title": "SALADAS, VEGETARIANO E OUTROS",
+            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/Levissima_thumb_0.png",
+            "color": "#59980d",
+            "link": ""
+        },
+        {
+            "id": 4,
+            "title": "HAMBÚRGUERES DE FRANGO",
+            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/BK_Web_Pepsi_300x270px_0.png",
+            "color": "#a2007d",
+            "link": ""
+        },
+        {
+            "id": 5,
+            "title": "ACOMPANHAMENTOS",
+            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/Thumb_0005_Sides_new.jpg",
+            "color": "#f6a800",
+            "link": ""
+        },
+        {
+            "id": 6,
+            "title": "SOBREMESAS",
+            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/300x270px-Casquinha-Recheada.png",
+            "color": "#0071ce",
+            "link": ""
+        },
+        {
+            "id": 7,
+            "title": "KING JR®",
+            "imageUrl": "http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/300x270px-KingJr-SemBox_0.png",
+            "color": "#9063CD",
+            "link": ""
+        }
+    ],
+    "coupons": [
+        {
+            "id": 1,
+            "data": [
+                {
+                    "id": 1,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 2,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 3,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 4,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 5,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 6,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 7,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 8,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "data": [
+                {
+                    "id": 1,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 2,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 3,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 4,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 5,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 6,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 7,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 8,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "data": [
+                {
+                    "id": 1,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 2,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 3,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 4,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 5,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 6,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 7,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 8,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "data": [
+                {
+                    "id": 1,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 2,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 3,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 4,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 5,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 6,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 7,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 8,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "data": [
+                {
+                    "id": 1,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 2,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 3,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 4,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 5,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 6,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 7,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 8,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "data": [
+                {
+                    "id": 1,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 2,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 3,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 4,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 5,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 6,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 7,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 8,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "data": [
+                {
+                    "id": 1,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 2,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 3,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 4,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 5,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 6,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 7,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                },
+                {
+                    "id": 8,
+                    "imageUrl": "https://cupons.burgerking.com.br/storage/cupons/48222/conversions/1_LONG_Cheeseburger-big.jpg"
+                }
+            ]
+        }
+    ]
+}
